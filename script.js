@@ -4,16 +4,16 @@ const projects = {
     title: "Lost Pet Recovery",
     problem: "When a pet goes missing, the owner is suddenly faced with many possible actions while already stressed and unsure what matters most.",
     approach: "Explore whether AI can turn the situation into a personalized, prioritized recovery plan instead of a generic checklist.",
-    built: "Initial product strategy plus printable 8.5 × 11 flyers and 11 × 17 posters designed around fast, clear communication.",
+    built: "Turned pet details into an actionable search plan and shareable updates.",
     next: "Develop the recovery-plan experience and test what information is truly needed to rank the owner's next actions."
   },
   "shopper-signal": {
-    kicker: "AI + CUSTOMER INSIGHTS",
-    title: "ShopperSignal",
-    problem: "Customer feedback is valuable, but it can be scattered, repetitive, and difficult to turn into clear product decisions.",
-    approach: "Explore how AI can organize feedback into understandable signals while keeping the customer's actual problem at the center.",
-    built: "Product strategy, MVP thinking, sample data, customer journeys, and early technical artifacts.",
-    next: "Turn the concept into a focused prototype that demonstrates one high-value feedback-to-insight workflow."
+    kicker: "AI PRODUCT CONCEPT",
+    title: "BrickDRAFT",
+    problem: "I know what I want to build, but I don't know how to build it with the pieces I have.",
+    approach: "Design around what users want to build with the bricks they already own.",
+    built: "An AI concept that turns an idea into a buildable model with personalized instructions.",
+    next: "Test build accuracy, brick matching, and substitutions."
   }
 };
 
